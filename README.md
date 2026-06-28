@@ -2,13 +2,11 @@
 
 # TERMO
 
- Uma adaptação do clássico Wordle desenvolvida em Assembly para o Processador ICMC
-
 Projeto desenvolvido para a disciplina **Introdução a Sistemas Computacionais** da Universidade de São Paulo.
 
 ---
 
-"Cada instrução conta. Cada registrador importa. Cada tentativa aproxima você da resposta."
+Uma adaptação do clássico Wordle desenvolvida em Assembly para o Processador ICMC
 
 </div>
 
