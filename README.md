@@ -201,6 +201,7 @@ Inspirado no jogo **TERMO (Wordle)** e adaptado para execução no **Processador
 <div align="center">
 
 Desenvolvido em Assembly.
+Link com vídeo explicativo:
 
 
 
