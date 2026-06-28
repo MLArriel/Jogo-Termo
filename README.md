@@ -60,7 +60,7 @@ Ao final da partida, o jogador pode iniciar uma nova rodada imediatamente.
 - Todas as palavras possuem exatamente **cinco letras**.
 - Palavras originalmente acentuadas são utilizadas **sem acentos**.
 - O banco de palavras não contém letras repetidas.
-- Cada partida possui no máximo **seis tentativas**.
+- Cada partida possui no máximo **cinco tentativas**.
 
 ---
 
