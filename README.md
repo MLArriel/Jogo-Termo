@@ -8,7 +8,7 @@ Projeto desenvolvido para a disciplina **Introdução a Sistemas Computacionais*
 
 Uma adaptação do clássico Wordle desenvolvida em Assembly para o Processador ICMC
 
-</div>
+
 
 ---
 
