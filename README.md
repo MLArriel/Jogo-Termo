@@ -12,6 +12,14 @@ Uma adaptação do clássico Wordle desenvolvida em Assembly para o Processador 
 
 ---
 
+Maria Luisa Arriel
+
+Maria Eduarda Aissa
+
+</div>
+
+---
+
 ## Sobre o projeto
 
 **TERMO** é uma recriação do famoso jogo de adivinhação de palavras **Wordle**, totalmente implementada em **Assembly** para o **Processador ICMC**.
