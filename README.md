@@ -199,7 +199,7 @@ Inspirado no jogo **TERMO (Wordle)** e adaptado para execução no **Processador
 <div align="center">
 
 Desenvolvido em Assembly.
-Link com vídeo explicativo:
+Link com vídeo explicativo: https://youtu.be/37iL_YUWYfQ
 
 
 
